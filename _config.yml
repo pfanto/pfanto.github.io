@@ -83,12 +83,11 @@ author:
   name             : "Paul Fanto"
   avatar           : "profile.png"
   bio              : "Theoretical nuclear physicist.  Interested large-scale coding to understand all aspects of the nucleus"
-  location         : "Yale University"
-  employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   googlescholar    : "https://scholar.google.com/citations?user=_hEamgMAAAAJ&hl=en"
   email            : "paul.fanto@yale.edu"
-  researchgate     :  "https://www.researchgate.net/" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
