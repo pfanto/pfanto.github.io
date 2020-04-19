@@ -1,4 +1,5 @@
 ---
+layout : single
 title: Statistical-model description of $\gamma$ decay from compound-nucleus resonances
 collection: publications
 permalink: /publication/2020-01-13-statistical-gamma
