@@ -1,5 +1,5 @@
 ---
-title: "Statistical-model description of gamma decay from compound-nucleus resonances"
+title: "Statistical-model description of $\gamma$ decay from compound-nucleus resonances"
 collection: publications
 permalink: /publication/2010-01-13-statistical-gamma
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
